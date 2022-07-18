@@ -21,9 +21,8 @@ Apa itu count-api, count api adalah api menghitung berapa jumlah orang yang pern
 *Cara pakai*
 ```txt
 1.klik link https://count-api.herokuapp.com/api/?hit=.
-2.masukan text pada parameter *?hit=* 
-contoh: https://count-api.herokuapp.com/api/?hit=github.com/gilangdeveloper
+2.masukan text pada parameter `?hit=`
+contoh: https://count-api.herokuapp.com/api/?hit=`text`
 
 ~selamat mencoba~
-
 ```
